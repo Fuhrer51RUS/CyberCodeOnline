@@ -30,13 +30,13 @@
  	 	},
  	 	"print": {
  	 	 	"name": {
- 	 	 	 	"trans": "уровень печати",
+ 	 	 	 	"trans": "печать",
  	 	 	 	"eng": "printing rank"
  	 	 	}
  	 	},
  	 	"medical": {
  	 	 	"name": {
- 	 	 	 	"trans": "создание медицинских припасов",
+ 	 	 	 	"trans": "знание медицины",
  	 	 	 	"eng": "medical science"
  	 	 	}
  	 	},
@@ -48,7 +48,7 @@
  	 	},
  	 	"scavenge": {
  	 	 	"name": {
- 	 	 	 	"trans": "навык мусорщика",
+ 	 	 	 	"trans": "навык сборщика",
  	 	 	 	"eng": "scavenge skill"
  	 	 	}
  	 	},
@@ -148,7 +148,7 @@
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Приключение]\r\n        С помощью вакуумного поезда можно с легкостью перемещаться по материку на большой скорости.",
+ 	 	 	 	"trans": "[Приключение]\r\n        С помощью гиперузлов можно с легкостью перемещаться по материку на большой скорости.",
  	 	 	 	"eng": "[Adventure]\r\n        Using the hyperloop, you can travel at supersonic speed across the continent with ease."
  	 	 	}
  	 	},
@@ -204,7 +204,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Начни в зоне уровнями от 1 до 10",
+ 	 	 	 	"trans": "Начни в зоне от 1 до 10 уровня",
  	 	 	 	"eng": "Start with level 1 to 10 area"
  	 	 	},
  	 	 	"toZone": {
@@ -256,7 +256,7 @@
  	 	 	 	"eng": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute your next operation"
  	 	 	},
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "Вы должны присоединиться к увеличению, чтобы войти в эту область",
+ 	 	 	 	"trans": "Вы должны присоединиться к банде, чтобы войти в эту область",
  	 	 	 	"eng": "You need to join a gang to enter this area"
  	 	 	}
  	 	}
@@ -272,7 +272,7 @@
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Вам нужен хотя бы уровень 5 для доступа к бирже подразделения",
+ 	 	 	 	"trans": "Вам нужен хотя бы уровень 5 для доступа к бирже",
  	 	 	 	"eng": "You need to be at least level 5 to access unit exchange"
  	 	 	}
  	 	},
@@ -312,15 +312,15 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Чтобы перейти в следующую локацию, тебе понадобится использовать Секретные Части Ключей из данжей \r\n        и запустить Терминал, чтобы взломать ключ к следующей локации",
+ 	 	 	 	"trans": "Чтобы перейти в следующую локацию, тебе нужно использовать Секретные Части Ключей из данжей \r\n        и запустить Терминал, чтобы взломать ключ к следующей локации",
  	 	 	 	"eng": "To progress to the next area, you need to use get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Твой слегка устаревший компьютер, может сделать свою работу, если потерпеть",
+ 	 	 	 	"trans": "Твой слегка устаревший компьютер может сделать свою работу, если потерпеть",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Вам нужно хотя бы уровень 5 для доступа к терминалу",
+ 	 	 	 	"trans": "Вам нужен хотя бы уровень 5 для доступа к терминалу",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	}
  	 	},
@@ -360,7 +360,7 @@
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Вам нужно хотя бы уровень 10 для доступа к продавцу",
+ 	 	 	 	"trans": "Вам нужен хотя бы уровень 10 для доступа к продавцу",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	}
  	 	},
@@ -370,7 +370,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Полностью автоматизированный переработчик, способный перерабатывать предметы до металлолома",
+ 	 	 	 	"trans": "Полностью автоматизированный переработчик, способный перерабатывать предметы в хлам",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -382,7 +382,7 @@
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Повысь свой Уровень Печати, не растрачиваясь на металлолом, это поможет увеличить уровень напечатанной тобой экипировки.",
+ 	 	 	 	"trans": "Повысь свой Уровень Печати, не растрачиваясь на металлолом, это поможет увеличить уровень твоих изделий.",
  	 	 	 	"eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
  	 	 	}
  	 	},
@@ -392,13 +392,13 @@
  	 	 	 	"eng": "Hack a Body Mod Clinic"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Скачивай данные местной клиники модификаций тела, чтобы создавать медицинские припасы более высокого уровня.",
+ 	 	 	 	"trans": "Скачивай данные местной клиники модификаций тела, чтобы создавать лучшее медицинское оборудование.",
  	 	 	 	"eng": "Download useful data from a local body mod clinic to craft higher quality medical bots and drones."
  	 	 	}
  	 	},
  	 	"increaseAmmo": {
  	 	 	"name": {
- 	 	 	 	"trans": "Улучшение Боезапаса",
+ 	 	 	 	"trans": "Улучшение Амуниции",
  	 	 	 	"eng": "Improve Ammunition"
  	 	 	},
  	 	 	"description": {
@@ -412,7 +412,7 @@
  	 	 	 	"eng": "Reverse Engineer Scraps"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Разбери металлолом, чтобы увеличить уровень печати. \r\n        Придется потратить немного своего металлолома.",
+ 	 	 	 	"trans": "Разберай хлам, чтобы увеличить уровень печати. \r\n        Придется потратить немного своего металлолома.",
  	 	 	 	"eng": "Reverse engineer tech scrap to improve your Print Rank. \r\n        You’ll need to sacrifice some of your tech scrap."
  	 	 	}
  	 	},
@@ -422,7 +422,7 @@
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "С помощью криптодобычи ты заработаешь Биткоины, однако из-за слишком большой нагрузки Hash Processors, более известные как КВМ (Квантовые Вычислительные Машины) часто выгорают.",
+ 	 	 	 	"trans": "С помощью криптодобычи ты заработаешь Биткоины, однако из-за слишком большой нагрузки Хеш-процессоры, более известные как КВМ (Квантовые Вычислительные Машины), часто выгорают.",
  	 	 	 	"eng": "Engaging in crypto mining will earn you Bitcoins, however due to the intense use of the Hash Processors, the Quantum Processing Unit, otherwise known as the QPU, will often burn out."
  	 	 	}
  	 	},
@@ -432,11 +432,11 @@
  	 	 	 	"eng": "Deploy farm bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[AFK Фарм опыта]\r\n        ИИ отправляется в данж за тебя. Использует AI Core, который чаще всего имеет билет в один конец.",
+ 	 	 	 	"trans": "[AFK Фарм опыта]\r\n        ИИ отправляется в данж за тебя. Использует ИИ Ядро. Чаще всего это билет в один конец.",
  	 	 	 	"eng": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip."
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Используй своё Ядро ИИ, чтобы автоматически побеждать противников",
+ 	 	 	 	"trans": "Используй своё ИИ Ядро, для авто-фарма в АФК",
  	 	 	 	"eng": "You can use your AI Core to Auto-Farm enemies while you AFK"
  	 	 	}
  	 	},
@@ -452,7 +452,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "[AFK Сбор ресурсов]\r\n                    Осмотрись в ${zoneName} и поищи полезные предметы в мусоре.\r\n                    Кто знает, вдруг тебе повезет!",
+ 	 	 	 	"trans": "[АФК Сбор ресурсов]\r\n                    Осмотрись в ${zoneName} и поищи что-то полезное в хламе .\r\n                    Кто знает, вдруг тебе повезет!",
  	 	 	 	"eng": "[AFK Resource Gather]\r\n                    Search around in ${zoneName} and scavenge for useful items.\r\n                    Who knows, maybe you'll get lucky!"
  	 	 	}
  	 	},
@@ -462,7 +462,7 @@
  	 	 	 	"eng": "Gather Gang Resource"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Помощь сборе и управлении необходимыми ресурсами для вашего клана",
+ 	 	 	 	"trans": "Помощь в сборе и контроле ресурсов для вашего банды",
  	 	 	 	"eng": "Help gather and manage needed resources for your gang"
  	 	 	}
  	 	},
@@ -472,17 +472,17 @@
  	 	 	 	"eng": "Decrypt memory shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Расшифруй найденный фрагмент памяти для получения полезной информации ",
+ 	 	 	 	"trans": "Расшифруй найденный осколок памяти для получения полезных данных",
  	 	 	 	"eng": "Decrypt memory shard you found to retrieve useful intel"
  	 	 	}
  	 	},
  	 	"clanOccupation": {
  	 	 	"name": {
- 	 	 	 	"trans": "Усилить занятие в Shangri-La",
+ 	 	 	 	"trans": "Усилить оккупацию в Шангри-Ла",
  	 	 	 	"eng": "Reinforce occupation at Shangri-la"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Помогите усилить и установить больший контроль над городом Шангри-Ла.",
+ 	 	 	 	"trans": "Помогите укрепиться в Шангри-Ла и установить над ним больший контроль.",
  	 	 	 	"eng": "Help reinforce and establish greater control of Shangri-la city."
  	 	 	}
  	 	},
@@ -492,27 +492,27 @@
  	 	 	 	"eng": "Play MEGA Pachinko Game"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Konnichiwa!! ^___^\r\n        Приходите играть в MEGA Pachinko! С шансом выиграть ОГРОМНЫЕ ЭПИЧЕСКИЕ награды\r\n        всего 10000 btc за сеанс, ПРЕДЛОЖЕНИЕ ОГРАНИЧЕНО ПО ВРЕМЕНИ !!! <3<3<3\r\n        ##Special thanks for Militech for sponsoring this event##",
+ 	 	 	 	"trans": "Konnichiwa!! ^___^\r\n        Приходите играть в MEGA Pachinko! С шансом получить ОГРОМНЫЕ ЭПИЧЕСКИЕ призы\r\n        всего 10000 btc за сеанс, ВРЕМЯ ПРЕДЛОЖЕНИЯ ОГРАНИЧЕНО!!! <3<3<3\r\n        ##Special thanks for Militech for sponsoring this event##",
  	 	 	 	"eng": "Konnichiwa!! ^___^\r\n        Come play the MEGA Pachinko! With chance to win HUGE EPIC rewards\r\n        only 5000 btc per session, LIMITED TIME OFFER!!! <3<3<3\r\n        ##Special thanks for Militech for sponsoring this event##"
  	 	 	}
  	 	},
  	 	"topClanExclusive": {
  	 	 	"name": {
- 	 	 	 	"trans": "Собирать защитные сборы",
+ 	 	 	 	"trans": "Сбор платы за защиту",
  	 	 	 	"eng": "Collect Protection Fees"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Чиновники взятки подкуп и SLPD и SLPD и собирают защитные сборы от владельца бизнеса и граждан в Шангри-Лах. Может быть, вы получите некоторые эпические предметы от них? (Лучшие две бандитские эксклюзивные)",
+ 	 	 	 	"trans": "Подкуп чиновников и SLPD для сбора платы за крышу владельцев бизнеса и граждан в Шангри-Ла. Возможно, ты получишь какие-то эпические предметы от них? (Только для двух лучших банд)",
  	 	 	 	"eng": "Bribe Government officials and SLPD and Collect Protection Fees from business owner and citizens in Shangri-lah. maybe you will get some EPIC items from them? (Top Two Gang Exclusive)"
  	 	 	}
  	 	},
  	 	"globalQuest": {
  	 	 	"name": {
- 	 	 	 	"trans": "HACK SL DATA FORTRESS",
+ 	 	 	 	"trans": "Взлом Инфо-Крепости SL",
  	 	 	 	"eng": "Hack SL Data Fortress"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Запустить совместную атаку в киберпространстве, ориентировав на крепость Shangri-La \r\n         Если бы атака должна была добиться успеха, чтобы заставить данные крепости передавать эксплойты для всех кибернетически подключенных пользователей",
+ 	 	 	 	"trans": "Провести в киберпространстве совместную атаку на Крепость Данных Шангри-Ла\r\n         Если атака будет успешной, можно будет заставить Инфо-Крепость передать эксплойты всем пользователям, подключенным к кибернетике",
  	 	 	 	"eng": "Launch a collaborated attack in cyberspace targeting the Shangri-La Data Fortress\r\n        if attack were to succeed its possible to force the Data Fortress to transmit exploits to all cybernetically connected users"
  	 	 	}
  	 	}
@@ -530,37 +530,37 @@
  	"tier": {
  	 	"trash": {
  	 	 	"name": {
- 	 	 	 	"trans": "плохого качества",
+ 	 	 	 	"trans": "мусор",
  	 	 	 	"eng": "trash"
  	 	 	}
  	 	},
  	 	"common": {
  	 	 	"name": {
- 	 	 	 	"trans": "обычного качества",
+ 	 	 	 	"trans": "обычное",
  	 	 	 	"eng": "common"
  	 	 	}
  	 	},
  	 	"highQuality": {
  	 	 	"name": {
- 	 	 	 	"trans": "высокого качества",
+ 	 	 	 	"trans": "качественное",
  	 	 	 	"eng": "high quality"
  	 	 	}
  	 	},
  	 	"rare": {
  	 	 	"name": {
- 	 	 	 	"trans": "редкого качества",
+ 	 	 	 	"trans": "редкое",
  	 	 	 	"eng": "rare"
  	 	 	}
  	 	},
  	 	"legendary": {
  	 	 	"name": {
- 	 	 	 	"trans": "легендарного качества",
+ 	 	 	 	"trans": "легендарное",
  	 	 	 	"eng": "legendary"
  	 	 	}
  	 	},
  	 	"epic": {
  	 	 	"name": {
- 	 	 	 	"trans": "эпического качества",
+ 	 	 	 	"trans": "эпическое",
  	 	 	 	"eng": "epic"
  	 	 	}
  	 	}
@@ -612,7 +612,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "Чертеж ${typeName} содержит информацию, необходимую для печати этого предмета, \r\n                    Создай ${typeName} с помощью [Молекулярный 3D Принтер] в Центре города.\r\n                    \r\n                    Совет: Уровень созданного предмета на 3D Принтере определяется твоим Уровнем Печати,\r\n                    так что всегда печатай сначала плохие, поскольку стоят они меньше и полезны для увеличения твоего Уровня Печати",
+ 	 	 	 	"trans": "Чертеж ${typeName} содержит информацию для печати этого предмета, \r\n                    Создай ${typeName} с помощью [Молекулярный 3D Принтер] в Центре города.\r\n                    \r\n                    Совет: Уровень созданного предмета на 3D Принтере определяется твоим Уровнем Печати,\r\n                    так что всегда печатай сначала плохие, поскольку стоят они меньше и полезны для увеличения твоего Уровня Печати",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -648,11 +648,11 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Обезболивающее",
+ 	 	 	 	"trans": "Pain Away",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "У тебя мигрень? используй Обезболивающее, чтобы избавиться от боли!",
+ 	 	 	 	"trans": "У тебя мигрень? Используй Pain Away™, чтобы избавиться от боли!",
  	 	 	 	"eng": "Do you have headache? Use Pain Away™ to relieve your pain!"
  	 	 	}
  	 	},
@@ -672,7 +672,7 @@
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Старый Нано-бот, используй его, чтобы вылечить любую травму!",
+ 	 	 	 	"trans": "Старый Нано-бот, используй его, чтобы вылечить (*почти) любую травму!",
  	 	 	 	"eng": "Old nano medic bot is used to cure any (*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -682,7 +682,7 @@
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Используй, чтобы вылечить любую травму!",
+ 	 	 	 	"trans": "Используй, чтобы вылечить (*почти) любую травму!",
  	 	 	 	"eng": "Inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -692,7 +692,7 @@
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в военных целях; способны исцелять во время боя.",
+ 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в военных целях. Способен исцелять во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They are capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -702,7 +702,7 @@
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в военных целях; способны исцелять во время боя.",
+ 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в военных целях. Способен исцелять во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -712,7 +712,7 @@
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в особых военных целях; способны исцелять во время боя.",
+ 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в особых военных целях. Способен исцелять во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -722,7 +722,7 @@
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в особых военных целях; способны исцелять во время боя.",
+ 	 	 	 	"trans": "Инъекционные наноустройства, выпускаемые в особых военных целях. Способен исцелять во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
